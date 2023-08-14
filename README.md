@@ -7,4 +7,4 @@ I'm used __PyCharm__ to create this project
 __This is my first project__ 
 
 You can write me, using that links:
-  [VK](vk.com/crgof)
+[VK](vk.com/crgof)
